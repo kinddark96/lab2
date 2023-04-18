@@ -1,7 +1,7 @@
 # lab2
 Ahmed Mohamed Desoky
 
-1)Create a new project on your local machine , then push it your remote repo
+1)Create a new project on your local machine , then push it your remote repo <br />
     >: git remote add origin git@github.com:kinddark96/lab2.git
     
 2)Create two branches (dev & test) then create one file on each branch, and push this changes to the remote repo.
